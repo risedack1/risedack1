@@ -8,6 +8,10 @@
 
 My name is Tymur, I am 25 years old and I am beginner front-end developer. I have been doing programming for about 1.5 years, trying out different technologies in web.
 
+## Codewars
+
+![Codewars stats](https://www.codewars.com/users/riserdack1/badges/large)
+
 ## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risedack1&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
