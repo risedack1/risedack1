@@ -26,7 +26,7 @@ My name is Tymur, I am 25 years old and I am beginner front-end developer. I hav
 
 ### 🤝 Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/risedack1) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f0f0f0?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/risedack1) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f0f0f0?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/tymur-oleshkevych-1b094123a)
 
 <!--
 **risedack1/risedack1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
