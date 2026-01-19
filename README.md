@@ -6,7 +6,7 @@
 
 ## Few words about me
 
-My name is Tymur, I am 27 years old and I am front-end developer. I have been doing programming for about 2+ years, trying out different technologies in web.
+My name is Tymur, I am 29 years old and I am front-end developer. I have been doing programming for about 4+ years, trying out different technologies in web.
 
 ## Codewars
 
